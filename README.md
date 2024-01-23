@@ -41,8 +41,8 @@ I've been making the frontend of websites after changing my career from Educatio
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" height=50px/> &nbsp;
 </span>
   </div>
-<hr></hr>
 
-<h2>Socials</h2>
+
+<h2>Socials:</h2>
 
 <p align="center"><a href="https://www.linkedin.com/in/anne-mcginness/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
