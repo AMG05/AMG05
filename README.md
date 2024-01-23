@@ -14,7 +14,7 @@ I've been making the frontend of websites after changing my career from Educatio
 
 
 
-<h1>Tech Stack:</h1>
+<h2>Tech Stack:</h2>
 <div align="center">
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50px/>&nbsp;
@@ -33,7 +33,7 @@ I've been making the frontend of websites after changing my career from Educatio
   </div>
 
 
-<h1>Currently Learning:</h1>
+<h2>Currently Learning:</h2>
 <div align="center">
   <span>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=50px/>&nbsp;
@@ -42,3 +42,7 @@ I've been making the frontend of websites after changing my career from Educatio
 </span>
   </div>
 <hr></hr>
+
+<h2>Socials</h2>
+
+<p align="center"><a href="https://www.linkedin.com/in/anne-mcginness/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
